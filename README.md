@@ -1,9 +1,19 @@
 # Dreamy-umbrella
-# 在本仓库的Release中储存了和数字人技术相关包括wav2lip-gfp,video-retalking,facefusion等技术的模型链接
-# 可在终端用wget命令拉取
+### 在本仓库的Release中储存了和数字人技术相关包括wav2lip-gfp,video-retalking,facefusion等技术的模型链接
+### 可在终端用wget命令拉取
 
-# 大体有如下模型：
-# wav2lip.pth
-# s3fd.pth
-# GFPGANv1.3.pth
-#
+#### 大体有如下模型：
+#### wav2lip.pth
+#### s3fd.pth
+#### GFPGANv1.3.pth
+#### GFPGANv1.4.pth
+#### 30_net_gen.pth
+#### inswapper_128.onnx
+#### BFM.zip
+#### arcface_w600k_r50.onnx
+#### detection_Resnet50_Final.pth
+#### net_g_67500.pth
+#### parsing_parsenet.pth
+#### RealESRGAN_x4plus.pth
+#### retainface_10g.pth
+#### sam_hq_vit_b.pth
