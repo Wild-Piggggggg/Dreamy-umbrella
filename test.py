@@ -1,3 +1,8 @@
-import math
+A = {'a':1,'b':2}
 
-print(math.sqrt(9))
+def change(dic):
+    dic['a'] = 3
+    return dic
+B = change(A)
+print(B)
+print(A)
